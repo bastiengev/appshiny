@@ -1,7 +1,6 @@
 library(shiny)
 library(shinythemes)
 library(shinydashboard)
-library(gdata)
 library(tidyr)
 library(stringr)
 library(dplyr)
